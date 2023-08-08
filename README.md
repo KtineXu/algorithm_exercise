@@ -1,1 +1,1 @@
-# algorithm_exercise
+# 大厂算法笔试题练习，每天3题。
